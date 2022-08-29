@@ -1,4 +1,4 @@
-print("Hola Mundo!")
+
 def fizzBuzz(n):
     i=1
     # Write your code here
@@ -17,4 +17,7 @@ def fizzBuzz(n):
             i+=1
 n=int(input())
 fizzBuzz(n)
+print("Hola Mundo!")
+
+
 
