@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="es"><Esri><CreaDate>20221028</CreaDate><CreaTime>09314900</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\RasterCalculator" Date="20221028" Time="093149">RasterCalculator SetNull("raster_menm"==0,"raster_menm") "C:\Users\HIGINIO\Documents\Cartografía Geotécnica\Taller4\Inventario2.tif"</Process></lineage></DataProperties></Esri></metadata>
