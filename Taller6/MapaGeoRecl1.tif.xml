@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="es"><Esri><CreaDate>20221110</CreaDate><CreaTime>09523800</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\Reclassify" Date="20221110" Time="095238">Reclassify MapaGeo.tif Value "2 5;2 3 1;3 8 5;8 9 2;9 10 4;10 11 3" "C:\Users\HIGINIO\Documents\Cartografía Geotécnica\Taller5\MapaGeoRecl1.tif" DATA</Process></lineage></DataProperties></Esri></metadata>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="es"><Esri><CreaDate>20221110</CreaDate><CreaTime>09592600</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\Reclassify" Date="20221110" Time="095926">Reclassify Aspecto.tif Value "-1 60 3;60 100 1;100 165 4;165 250 5;250 359,625519 2" "C:\Users\HIGINIO\Documents\Cartografía Geotécnica\Taller6\AspectoRecl.tif" DATA</Process></lineage></DataProperties></Esri></metadata>
