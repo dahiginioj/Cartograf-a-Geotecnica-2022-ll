@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="es"><Esri><CreaDate>20221206</CreaDate><CreaTime>18440900</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\RasterCalculator" Date="20221206" Time="184409">RasterCalculator SetNull("cohesión_r10" == -128,"cohesión_r10") "C:\Users\HIGINIO\Documents\Cartografía Geotécnica\Taller9\Cohesión_1.tif"</Process></lineage></DataProperties></Esri></metadata>
